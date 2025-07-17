@@ -109,3 +109,8 @@ If you're looking to extend the tool in the future, you could explore:
 * Web-based UI with Streamlit or Flask
 * Support for summarizing from `.txt` or `.pdf` files
 * Using larger models like `t5-base` or `bart-large` for better summaries (with GPU support)
+
+#OUTPUT
+
+
+<img width="1853" height="827" alt="Image" src="https://github.com/user-attachments/assets/54106855-ff1a-4461-b5d0-c46e06618a6d" />
